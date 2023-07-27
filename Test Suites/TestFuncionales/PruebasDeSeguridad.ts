@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/PruebasDeSeguridad/PruebaDeSeguridadChroome</testSuiteEntity>
+         <testSuiteEntity>Test Suites/PruebasdeSeguridad/PruebaDeSeguridadChroome</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
